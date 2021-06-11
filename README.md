@@ -1,5 +1,3 @@
-<iframe src="https://giphy.com/embed/11NcpG5wIIp77W" width="480" height="273" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/movie-one-direction-harry-11NcpG5wIIp77W">via GIPHY</a></p>
-
 # Microsoft Movie Analysis
 #### Group Members: Joanne de Leon and Katarina Salcedo
 
