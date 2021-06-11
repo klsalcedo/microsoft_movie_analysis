@@ -15,9 +15,14 @@ Provide Microsoft with an understanding of how to create a successful movie stud
 ## Findings
 1. Concentrating on films in the Drama and Comedy genres will ensure viewer turnout as well as introduce the public to the studio’s brand. 
  --insert graph
+
 2. Significant numbers of viewers watch movies in the Action & Adventure, Mystery & Suspense, Romance, and Science Fiction & Fantasy genres, no matter the rank of rating, implying that the quality of the films in these genres is irrelevant as to whether a viewer will watch. Therefore creating films in these genres will yield a consistent viewership as well as increase exposure of the studio.
 --graph
+
 3. We narrowed down the months which have consistently brought in the highest box office sales to June, July and November with February and May coming second to these. Microsoft can increase movie profits by aiming to release new movies during these peak months. 
+
 ![Screen Shot 2021-06-10 at 4 18 09 PM](https://user-images.githubusercontent.com/81720110/121747649-99ec6180-cabc-11eb-84c0-8dd29f41939e.png)
+
 4. Based on the yearly trend, we advise Microsoft movie studio to consider streaming their movies in addition to releasing them in theaters to reach a greater audience and ensure success. 
+
 ![Screen Shot 2021-06-10 at 4 39 20 PM](https://user-images.githubusercontent.com/81720110/121747803-cd2ef080-cabc-11eb-964f-20546055d845.png)
