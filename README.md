@@ -1,3 +1,4 @@
+<img width="610" alt="Screen Shot 2021-06-10 at 7 38 59 PM" src="https://user-images.githubusercontent.com/75818628/121756886-4c362000-cae1-11eb-8a14-1d44d5a1236c.png">
 # Microsoft Movie Analysis
 #### Group Members: Joanne de Leon and Katarina Salcedo
 
@@ -15,6 +16,9 @@ Provide Microsoft with an understanding of how to create a successful movie stud
 ## Findings
 1. Since Drama and Comedy were by far the most rated and hence the most watched films, concentrating on producing films in the these genres will ensure viewer turnout as well as introduce the public to the studio’s brand. 
  --insert graph
+<img width="610" alt="Screen Shot 2021-06-10 at 7 38 59 PM" src="https://user-images.githubusercontent.com/75818628/121756969-a59e4f00-cae1-11eb-9337-f468b8175555.png">
+<img width="607" alt="Screen Shot 2021-06-10 at 7 39 22 PM" src="https://user-images.githubusercontent.com/75818628/121756995-bd75d300-cae1-11eb-8c64-2fc3be9f36ea.png">
+<img width="607" alt="Screen Shot 2021-06-10 at 7 39 39 PM" src="https://user-images.githubusercontent.com/75818628/121757015-c9fa2b80-cae1-11eb-888e-75b3a0e3a480.png">
 
 2. Significant numbers of viewers watch movies in the Action & Adventure, Mystery & Suspense, Romance, and Science Fiction & Fantasy genres, no matter the rank of rating, implying that the quality of the films in these genres is irrelevant as to whether a viewer will watch. Therefore creating films in these genres will yield a consistent viewership as well as increase exposure of the studio.
 --graph
