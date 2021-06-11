@@ -9,11 +9,11 @@ Provide Microsoft with an understanding of how to create a successful movie stud
 2. For information on movie preformance in theaters, we looked at a dataset from The Numbers which provided information on release dates along with domestic and worldwide gross. This set had 4387 movies ranging from 2000 to 2019. 
 
 ## Methodology
-1. The Rotten Tomatoes datasets were merged togeter using the ID column to create a new dataset with information on movie ratng and their genres...
+1. The Rotten Tomatoes datasets were merged togeter using the ID column to create a new dataset with information on movie ratings and their genres.  We decided to examine their movie ratings to see which genres were the most rated - no matter the rating - to ascertain which types of movies were most frequently watched as we hypothesize that the two are related. To closely examine the distribution of ratings along with the genres asscociated, we subdivided the ratings into high, average, and low.
 2. A subset of The Numbers data containg years ranging from 2000 to 2019 was taken to account for the rate of inflation. This data was then cleaned and release dates were seperated into two columns containing the release month and release year. We were then able to group movie titles into their release months and years then plot this data. From this, we were able to track box office trends. 
 
 ## Findings
-1. Concentrating on films in the Drama and Comedy genres will ensure viewer turnout as well as introduce the public to the studio’s brand. 
+1. Since Drama and Comedy were by far the most rated and hence the most watched films, concentrating on producing films in the these genres will ensure viewer turnout as well as introduce the public to the studio’s brand. 
  --insert graph
 
 2. Significant numbers of viewers watch movies in the Action & Adventure, Mystery & Suspense, Romance, and Science Fiction & Fantasy genres, no matter the rank of rating, implying that the quality of the films in these genres is irrelevant as to whether a viewer will watch. Therefore creating films in these genres will yield a consistent viewership as well as increase exposure of the studio.
