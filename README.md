@@ -1,3 +1,5 @@
+https://media.giphy.com/media/11NcpG5wIIp77W/giphy.gif
+
 # Microsoft Movie Analysis
 #### Group Members: Joanne de Leon and Katarina Salcedo
 
