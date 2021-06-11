@@ -1,4 +1,3 @@
-<img width="610" alt="Screen Shot 2021-06-10 at 7 38 59 PM" src="https://user-images.githubusercontent.com/75818628/121756886-4c362000-cae1-11eb-8a14-1d44d5a1236c.png">
 # Microsoft Movie Analysis
 #### Group Members: Joanne de Leon and Katarina Salcedo
 
