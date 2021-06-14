@@ -17,6 +17,8 @@ Provide Microsoft with an understanding of how to create a successful movie stud
 
 2. Significant numbers of viewers watch movies in the Action & Adventure, Mystery & Suspense, Romance, and Science Fiction & Fantasy genres, no matter the rank of rating, implying that the quality of the films in these genres is irrelevant as to whether a viewer will watch. Therefore creating films in these genres will yield a consistent viewership as well as increase exposure of the studio.
 
+For all three subsets of ratings, high, average and low, the same genres are repeatedly represented as the genres with most ratings. Namely, Drama, Comedy, Action & Adventure, Mystery & Suspense, Romance, Science Fiction & Fantasy, Art House & International, Kids & Family, and Horror. With Classics showing up in the high ratings but Animation being represented in the average and low ratings.
+
 <img width="610" alt="Screen Shot 2021-06-10 at 7 38 59 PM" src="https://user-images.githubusercontent.com/75818628/121756969-a59e4f00-cae1-11eb-9337-f468b8175555.png">
 <img width="607" alt="Screen Shot 2021-06-10 at 7 39 22 PM" src="https://user-images.githubusercontent.com/75818628/121756995-bd75d300-cae1-11eb-8c64-2fc3be9f36ea.png">
 <img width="607" alt="Screen Shot 2021-06-10 at 7 39 39 PM" src="https://user-images.githubusercontent.com/75818628/121757015-c9fa2b80-cae1-11eb-888e-75b3a0e3a480.png">
